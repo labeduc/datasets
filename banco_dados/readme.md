@@ -37,3 +37,24 @@ Segue estrutura de dados:
 | 1          | Nome                    | 10                   | string            | Nome do cliente                                  |
 | 2          | Cidade                  | 10                   | string            | Cidade aonde o cliente reside                    |
 | 3          | Estado                  | 10                   | string            | Estado aonde o cliente reside                    |
+
+## Dataset: videogame_sales
+
+Este é um dataset sobre a venda de jogos de videogame que tiveram vendas superiores a mais de 100.000 cópias.
+
+Campos disponíveis neste dataset (nomes em inglês):
+Rank - Ranking of overall sales
+
+Name - The games name
+
+* Platform - Platform of the games release (i.e. PC,PS4, etc.)
+* Year - Year of the game's release
+* Genre - Genre of the game
+* Publisher - Publisher of the game
+* NA_Sales - Sales in North America (in millions)
+* EU_Sales - Sales in Europe (in millions)
+* JP_Sales - Sales in Japan (in millions)
+* Other_Sales - Sales in the rest of the world (in millions)
+* Global_Sales - Total worldwide sales.
+
+Link: https://www.kaggle.com/datasets/gregorut/videogamesales
