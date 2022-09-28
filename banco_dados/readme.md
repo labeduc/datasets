@@ -33,7 +33,7 @@ Segue estrutura de dados:
 
 | **Coluna** | **Nome**                | **Valores Não-Nulo** | **Tipo de Dados** | **Descrição**                                    |
 | ---------- | ----------------------- | -------------------- | ----------------- | ------------------------------------------------ |
-| 0          | Codigo                  | 5                    | integer           | Código de cadastro do usuário                    |
-| 1          | Nome                    | 5                    | string            | Nome do cliente                                  |
-| 2          | Cidade                  | 5                    | string            | Cidade aonde o cliente reside                    |
-| 3          | Estado                  | 5                    | string            | Estado aonde o cliente reside                    |
+| 0          | Codigo                  | 10                   | integer           | Código de cadastro do usuário                    |
+| 1          | Nome                    | 10                   | string            | Nome do cliente                                  |
+| 2          | Cidade                  | 10                   | string            | Cidade aonde o cliente reside                    |
+| 3          | Estado                  | 10                   | string            | Estado aonde o cliente reside                    |
