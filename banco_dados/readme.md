@@ -26,10 +26,10 @@ Escolha um diretório e utilize o seguinte comando a partir do seu prompt:
 > git clone https://github.com/labeduc/datasets.git
 ```
 
-### Dependências
+## Dataset: fortnite_stats
 
-Para baixar os datasets, você precisa ter o cliente do Git instalado em seu computador. Você pode obte-lo [aqui](https://git-scm.com/download).
+Este é um dataset baseado em uma amostra de dados de um gameplay do fornite com o status.
 
-## Atualizações
 
-Conforme for necessário, iremos atualizar os datasets existentes e também adicionar novos datasets, que estarão associados aos nossos exercícios, desafios e aulas!
+
+Link para maiores informações sobre o dataset: https://www.kaggle.com/datasets/rushabhwadkar/fortnite-game-stats
