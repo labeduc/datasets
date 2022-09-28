@@ -26,10 +26,14 @@ Escolha um diretório e utilize o seguinte comando a partir do seu prompt:
 > git clone https://github.com/labeduc/datasets.git
 ```
 
-## Dataset: fortnite_stats
+## Dataset: clientes
 
-Este é um dataset baseado em uma amostra de dados de um gameplay do fornite com o status.
+Este é um dataset simples para mostrar os exemplos dos comandos SQL.
+Segue estrutura de dados:
 
-
-
-Link para maiores informações sobre o dataset: https://www.kaggle.com/datasets/rushabhwadkar/fortnite-game-stats
+| **Coluna** | **Nome**                | **Valores Não-Nulo** | **Tipo de Dados** | **Descrição**                                    |
+| ---------- | ----------------------- | -------------------- | ----------------- | ------------------------------------------------ |
+| 0          | Codigo                  | 5                    | integer           | Código de cadastro do usuário                    |
+| 1          | Nome                    | 5                    | string            | Nome do cliente                                  |
+| 2          | Cidade                  | 5                    | string            | Cidade aonde o cliente reside                    |
+| 3          | Estado                  | 5                    | string            | Estado aonde o cliente reside                    |
