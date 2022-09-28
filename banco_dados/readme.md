@@ -1,4 +1,4 @@
-# LabEduc - Banco de Dados - Datasets
+# Banco de Dados - Datasets
 
 Neste seção serão utilizados os datasets utilizados na disciplina de banco de dados.
 
