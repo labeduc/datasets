@@ -45,8 +45,7 @@ Este é um dataset sobre a venda de jogos de videogame que tiveram vendas superi
 Campos disponíveis neste dataset (nomes em inglês):
 Rank - Ranking of overall sales
 
-Name - The games name
-
+* Name - The games name
 * Platform - Platform of the games release (i.e. PC,PS4, etc.)
 * Year - Year of the game's release
 * Genre - Genre of the game
