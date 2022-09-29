@@ -57,3 +57,26 @@ Rank - Ranking of overall sales
 * Global_Sales - Total worldwide sales.
 
 Link: https://www.kaggle.com/datasets/gregorut/videogamesales
+
+## Dataset: sql_island
+
+Este é um dataset do exercício 2 sobre o jogo SQL island.
+Segue breve descrição das tabelas:
+
+1) aldeia
+- idaldeia number
+- nome varchar2(100)
+- chefe number
+
+2) habitante
+- idpessoa number
+- nome varchar2(100)
+- idaldeia number
+- genero varchar2(1)
+- trabalho varchar2(100)
+- ouro number
+- status varchar2(100)
+
+3) item
+- item varchar2(100)
+- proprietario number
