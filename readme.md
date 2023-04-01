@@ -57,8 +57,8 @@ https://github.com/labeduc/datasets/blob/main/<diretorio>/<nome do arquivo>?raw=
 ```
 
 onde:
-`<diretorio>` - pasta de onde queremos ler o arquivo. Exemplo: pokemons é a pasta que contém o dataset de pokemons.
-`<nome do arquivo>` - nome do arquivo de dados. Exemplo: na pasta pokemons temos o arquivo all.csv.
+- `<diretorio>` - pasta de onde queremos ler o arquivo. Exemplo: pokemons é a pasta que contém o dataset de pokemons.
+- `<nome do arquivo>` - nome do arquivo de dados. Exemplo: na pasta pokemons temos o arquivo all.csv.
 
 Então, mostrando o exemplo completo:
 Se quisermos carregar os dados de pokemons em um DataFrame do Pandas, o código seria esse:
