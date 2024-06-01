@@ -2,9 +2,11 @@
 
 Olá, Cientista de Dados!!!
 
-Aqui neste repositório, você encontrará todos os conjuntos de dados (datasets) que são utilizados nas aulas da trilha de ciências de dados do LabEduc!
+Aqui neste repositório, você encontrará todos os conjuntos de dados (datasets) que são utilizados nas aulas da trilha de ciências de dados do LabEduc e mais alguns outros repositórios para vocês praticarem!
 
 Todos os datasets são públicos e foram obtidos em diversos sites. O arquivo readme.md em cada folder tem mais detalhes. Se você for utilizar estes arquivos em outras atividades, não esqueça de referenciar a origem do dataset.
+
+Os datasets que não estão em um folder específico são datasets que estão em análise, portanto ainda não temos a descrição de cada um.
 
 Abaixo seguem algumas orientações de como utilizar estes datasets.
 
