@@ -2,3 +2,4 @@ venv
 *.ipynb
 requirements.txt
 .vscode/*
+.DS_Store
